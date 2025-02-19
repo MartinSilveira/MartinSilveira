@@ -1,4 +1,5 @@
 ## Hi there 👋
+Chamo-me Martin Silveira e atualmente estudo no Instituto Superior Técnico do Taguspark. Estou no 3º ano da Licenciatura em Engenharia Informática e de Computadores.
 
 <!--
 **MartinSilveira/MartinSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
