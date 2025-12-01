@@ -1,5 +1,5 @@
 ## Hi there 👋
-Chamo-me Martin Silveira e atualmente estudo no Instituto Superior Técnico do Taguspark. Estou no 3º ano da Licenciatura em Engenharia Informática e de Computadores.
+My name is Martin Silveira and I'm currently studying at Instituto Superior Técnico. In the 1st year of the Master's in Computer Science and Engineering, particulary in the areas of Artificial Intelligence, Cybersecurity and Data Engineering.
 
 <!--
 **MartinSilveira/MartinSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
